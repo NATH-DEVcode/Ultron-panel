@@ -1,10 +1,7 @@
-![Captura 1 - Menú principal](images/ultron_menu.jpg)
+<img width="1972" height="685" alt="1000060606" src="https://github.com/user-attachments/assets/a36cc858-e129-48ee-963f-2d1210b1a84d" />
+<img width="1735" height="1454" alt="1000060603" src="https://github.com/user-attachments/assets/2724cf60-fa6e-44bd-8a30-a3b0b9625825" />
+<img width="3006" height="1291" alt="1000060604" src="https://github.com/user-attachments/assets/0dba9eaa-c660-4d7b-b3e9-a4937289b8cc" />
 
-![Captura 2 - Arranque](images/ultron_boot.jpg)
-
-![Captura 3 - Ejecutar](images/ultron_run.jpg)
-
----
 
  
  
